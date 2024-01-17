@@ -1,12 +1,8 @@
-![header](header.png)
-
 <h1 align="center">Dating helper</h1>
 
-<div align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
 
 > Step up your dating game with a sprinkle of AI. Supports both Tinder and Grindr.
 
@@ -18,6 +14,8 @@ This AI-driven wingman is your secret weapon in the tumultuous world of online d
 * [x] Real-time messaging
 * [x] Multi-threaded architecture to handle parallel conversations
 * [ ] Adaptive ai
+
+![header](header.png)
 
 ## Technical Overview
 
