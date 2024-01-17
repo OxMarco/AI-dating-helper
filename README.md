@@ -63,6 +63,15 @@ CPPFLAGS="-I/opt/homebrew/Cellar/openssl@3/3.2.0_1/include" pip install
 --no-cache-dir --compile --ignore-installed pycurl
 ```
 
+## Acknowledgments
+This project would not have been possible without the foundational work provided by some remarkable repositories and their authors.
+
+- **Grindr Access by Slenderman00**: A special thanks goes to [Slenderman00](https://github.com/Slenderman00), author of [grindr-access](https://github.com/Slenderman00/grindr-access)
+
+- **Tinder.py by Tiago Vila**: I am also grateful to [Tiago Vila](https://github.com/tiagovla) for the [tinder.py](https://github.com/tiagovla/tinder.py) repository
+
+Both of these repositories have not only saved valuable development time but also provided deep insights and a robust framework to build upon.
+
 ## Disclamer
 This project, including its code and concepts, is presented as a funny PoC and is intended for educational and demonstrative purposes only. Users of this software are strongly advised against employing it in a manner that deceives or misleads other individuals on any dating platforms, including Tinder and Grindr users.
 
